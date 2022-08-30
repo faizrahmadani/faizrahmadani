@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Faiz, nice to meet you!✨✨
-
-[![WhiteCat20's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCat20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCat20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
