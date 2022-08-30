@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Faiz, nice to meet you!✨✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCat20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm an Engineering Physics Student who love to play with web development and has such a high interest in programming
 
 
 <!--
