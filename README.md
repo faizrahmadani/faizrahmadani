@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Faiz, nice to meet you!✨✨
-I'm an Engineering Physics Student who love to play with web development and has such a high interest in programming
-
+I'm an Engineering Physics Student who love to play with web development and has such a high interest in Software Development and UI/UX Design
 
 <!--
 **WhiteCat20/WhiteCat20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
