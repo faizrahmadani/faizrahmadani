@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Faiz, nice to meet you!✨✨
 I'm an Engineering Physics Student who love to play with web development and has such a high interest in Software Development and UI/UX Design
 
+### My Plans for Projects : 
+- Web App untuk Peminjaman Barang-barang di Laboratorium ECS
+- Mini LMS (Learning Management System) case : pelatihan web programming 2023 ECS
+- Personal Website dengan Blog Management System, dan Tutorial-tutorial yang lain
+
 <!--
 **WhiteCat20/WhiteCat20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
