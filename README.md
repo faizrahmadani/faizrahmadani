@@ -16,3 +16,7 @@ I'm Engineering Physics Student who loves to develop web apps and has a goal to 
 [![](https://visitcount.itsvg.in/api?id=WhiteCat20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ### My Plans for Projects : 
+- Web App untuk Peminjaman Barang-barang di Laboratorium ECS
+- Mini LMS (Learning Management System) case : pelatihan web programming 2023 ECS
+- Personal Website dengan Blog Management System, dan Tutorial-tutorial yang lain -->
