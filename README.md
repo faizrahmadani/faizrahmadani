@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Engineering Physics Student who loves to develop web apps and has a goal to be Software Engineer. I have such a great interest in Software Development and Internet Of Things
+I'm Engineering Physics Student who has big interest in Artificial Intelligence, Internet Of Things, and Software Development.
 
 
 ## 🌐 Socials:
